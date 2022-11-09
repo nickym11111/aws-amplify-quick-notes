@@ -29,8 +29,9 @@ To automatically deploy the app, click the big orange button 👇
 1. Clone the repo & install the dependencies
 
 ```sh
-~ git clone https://github.com/aws-samples/aws-amplify-quick-notes.git
-~ cd aws-amplify-quick-notes
+~ git clone https://github.com/aws-samples/microgrowery-react
+.git
+~ cd microgrowery-react
 ~ npm install
 ```
 
