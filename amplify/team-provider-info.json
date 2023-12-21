@@ -16,5 +16,23 @@
         "quicknotes9506fafe": {}
       }
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-microgrowery-dev-161024-authRole",
+      "UnauthRoleArn": "arn:aws:iam::203432132007:role/amplify-microgrowery-dev-161024-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::203432132007:role/amplify-microgrowery-dev-161024-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-microgrowery-dev-161024-deployment",
+      "UnauthRoleName": "amplify-microgrowery-dev-161024-unauthRole",
+      "StackName": "amplify-microgrowery-dev-161024",
+      "StackId": "arn:aws:cloudformation:us-east-1:203432132007:stack/amplify-microgrowery-dev-161024/5c66e9a0-a045-11ee-b755-0aad99c94c57",
+      "AmplifyAppId": "d16nfo2eow0t1y"
+    },
+    "categories": {
+      "auth": {
+        "quicknotes9506fafe": {}
+      }
+    }
   }
 }

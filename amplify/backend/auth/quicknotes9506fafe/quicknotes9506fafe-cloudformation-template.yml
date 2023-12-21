@@ -368,4 +368,4 @@ Outputs:
         - UserPoolClientInputs
         - appSecret
 Description: >-
-  {"createdOn":"Linux","createdBy":"Amplify","createdWith":"10.4.0","stackType":"auth-Cognito","metadata":{}}
+  {"createdOn":"Mac","createdBy":"Amplify","createdWith":"12.10.0","stackType":"auth-Cognito","metadata":{}}
